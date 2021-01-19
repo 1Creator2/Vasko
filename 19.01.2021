@@ -1,0 +1,956 @@
+#EXTM3U
+#EXTINF:0,N1 TV HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9391
+#EXTINF:0,------- Hrvatska -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683298
+#EXTINF:0,HRT 1 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5037
+#EXTINF:0,HRT 1 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/10416
+#EXTINF:0,HRT 2 HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5036
+#EXTINF:0,HRT 2 [B] HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/10415
+#EXTINF:0,HRT 3 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5035
+#EXTINF:0,HRT3 [B] HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/10414
+#EXTINF:0,HRT 4 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5033
+#EXTINF:0,HRT 4 HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/10413
+#EXTINF:0,HRT Int. HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/23780
+#EXTINF:0,Nova TV HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5027
+#EXTINF:0,Nova TV SD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/10411
+#EXTINF:0,N1 TV HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9391
+#EXTINF:0,RTL HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4985
+#EXTINF:0,RTL [B] HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/10412
+#EXTINF:0,RTL 2 HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4984
+#EXTINF:0,N1 Hrvatska HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5029
+#EXTINF:0,Z1 HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4964
+#EXTINF:0,TV Banovina HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9377
+#EXTINF:0,Slavonska TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11036
+#EXTINF:0,Osjecka HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5024
+#EXTINF:0,Trend TV Karlovac HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13449
+#EXTINF:0,VTV Varazdin HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13443
+#EXTINF:0,Laudato TV FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13333
+#EXTINF:0,KanalR Rijeka HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13338
+#EXTINF:0,Vinkovacka TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4965
+#EXTINF:0,Zdrava TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13334
+#EXTINF:0,Jadran TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/16425
+#EXTINF:0,Jabuka TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/16426
+#EXTINF:0,------- Sportski -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683294
+#EXTINF:0,Arena Sport 1 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5464
+#EXTINF:0,Arena Sport 2 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5462
+#EXTINF:0,Arena Sport 3 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5460
+#EXTINF:0,Arena Sport 4 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5458
+#EXTINF:0,Arena Sport 5 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/545734
+#EXTINF:0,Arena Sport 6 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9415
+#EXTINF:0,Sport Klub Start HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/635089
+#EXTINF:0,Sport Klub 1 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/53605
+#EXTINF:0,Sport Klub 2 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9413
+#EXTINF:0,Sport Klub 3 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/53166
+#EXTINF:0,Sport Klub 4 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9411
+#EXTINF:0,Sport Klub 5 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9410
+#EXTINF:0,Sport Klub 6 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9409
+#EXTINF:0,Sport Klub Golf HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/657465
+#EXTINF:0,SK eSports HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/680236
+#EXTINF:0,Planet Sport 1 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/685989
+#EXTINF:0,Planet Sport 2 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/685990
+#EXTINF:0,Planet Sport 3 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/685991
+#EXTINF:0,Planet Sport 4 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/685992
+#EXTINF:0,Planet Sport 5 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/685993
+#EXTINF:0,Fight Channel HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/25974
+#EXTINF:0,Sportska TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9416
+#EXTINF:0,Kreator TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13224
+#EXTINF:0,HNTV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11045
+#EXTINF:0,------- Filmovi & Serije -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683293
+#EXTINF:0,HBO HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5041
+#EXTINF:0,HBO 2 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5040
+#EXTINF:0,HBO 3 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5039
+#EXTINF:0,CineStar Premiere 1 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5065
+#EXTINF:0,CineStar Premiere 1 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11490
+#EXTINF:0,CineStar Premiere 2 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5064
+#EXTINF:0,CineStar Premiere 2 [B] HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11489
+#EXTINF:0,Cinestar TV 1 HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5063
+#EXTINF:0,Cinestar TV 2 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13391
+#EXTINF:0,CineStar TV Action HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5062
+#EXTINF:0,CineStar TV Fantasy HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11053
+#EXTINF:0,CineMax 1 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5067
+#EXTINF:0,Cinemax 2 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9375
+#EXTINF:0,Max Select 1 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/20035
+#EXTINF:0,Max Select 2 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/20034
+#EXTINF:0,Max Select 3 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/20033
+#EXTINF:0,Max Select 4 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/20032
+#EXTINF:0,Max Select 5 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/20031
+#EXTINF:0,Max Select 6 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/20030
+#EXTINF:0,Max Select 7 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/20029
+#EXTINF:0,Max Select 8 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/20028
+#EXTINF:0,Max Select 9 FHD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/20027
+#EXTINF:0,RTL Crime HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4983
+#EXTINF:0,RTL Passion HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4981
+#EXTINF:0,Doma TV HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/23193
+#EXTINF:0,Doma TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5057
+#EXTINF:0,AXN Adria HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5074
+#EXTINF:0,AXN Spin HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/23186
+#EXTINF:0,SciFi HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11033
+#EXTINF:0,AMC HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13226
+#EXTINF:0,TV 1000 HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9372
+#EXTINF:0,Fox HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5050
+#EXTINF:0,Fox Crime HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5049
+#EXTINF:0,Fox Life HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5048
+#EXTINF:0,Fox Movies HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5047
+#EXTINF:0,Klasik TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5032
+#EXTINF:0,Diva HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5058
+#EXTINF:0,M1 Film HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5031
+#EXTINF:0,------- Obrazovni/Dokumentarni -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683295
+#EXTINF:0,BBC Earth HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/674012
+#EXTINF:0,Doku TV HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/15448
+#EXTINF:0,DocuBox HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/23184
+#EXTINF:0,24 Kitchen HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9378
+#EXTINF:0,Animal Planet HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5077
+#EXTINF:0,Discovery Channel HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5059
+#EXTINF:0,Discovery ID HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11052
+#EXTINF:0,Crime & Investigation HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5061
+#EXTINF:0,Lov I Ribolov HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9368
+#EXTINF:0,History Channel HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9384
+#EXTINF:0,History 2 HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11044
+#EXTINF:0,National Geographic HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5028
+#EXTINF:0,Nat Geo Wild HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11049
+#EXTINF:0,RTL Living HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4982
+#EXTINF:0,Travel Channel HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9382
+#EXTINF:0,Viasat Explorer HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9381
+#EXTINF:0,Viasat History HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9383
+#EXTINF:0,Viasat Nature HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/16421
+#EXTINF:0,E! HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9379
+#EXTINF:0,TLC HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9373
+#EXTINF:0,------- Decji -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683296
+#EXTINF:0,Nick Jr HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/8973
+#EXTINF:0,Nickelodeon HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9380
+#EXTINF:0,Baby TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11054
+#EXTINF:0,Mini TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9371
+#EXTINF:0,RTL Kockica HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4980
+#EXTINF:0,PickBox TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/685978
+#EXTINF:0,Classic Tom And Jerry HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/657466
+#EXTINF:0,------- Muzicki -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683297
+#EXTINF:0,MTV Adria HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11037
+#EXTINF:0,CMC Music HD HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9366
+#EXTINF:0,Jugoton TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11042
+#EXTINF:0,Narodni TV HR
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13223
+#EXTINF:0,------- Nacionalni & lokalni -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683509
+#EXTINF:0,BHT 1 HD BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9360
+#EXTINF:0,BHT 1 BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5071
+#EXTINF:0,N1 Bosna BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/10410
+#EXTINF:0,Nova BH BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/625455
+#EXTINF:0,Pink Media BH BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683439
+#EXTINF:0,Al Jazeera Balkan BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5076
+#EXTINF:0,OBN BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5025
+#EXTINF:0,RTV Zenica BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11032
+#EXTINF:0,RTRS BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4987
+#EXTINF:0,RTRS Plus BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4986
+#EXTINF:0,Hayat HD BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5043
+#EXTINF:0,Hayat BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11050
+#EXTINF:0,Hayat Plus BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9402
+#EXTINF:0,TV USK HD BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4967
+#EXTINF:0,ATV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5075
+#EXTINF:0,BN Sat BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5069
+#EXTINF:0,BN TV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5070
+#EXTINF:0,K3 Prnjavor BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/23181
+#EXTINF:0,Federalna TV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5053
+#EXTINF:0,TV Sarajevo BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4966
+#EXTINF:0,Face TV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5054
+#EXTINF:0,HIT Televizija BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13352
+#EXTINF:0,Super TV HD BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/12391
+#EXTINF:0,ALFA TV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11449
+#EXTINF:0,TV Slon Extra BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/12393
+#EXTINF:0,TV TK Tuzla BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/12398
+#EXTINF:0,TV TK Tuzla [B] BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/23779
+#EXTINF:0,O Kanal BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5068
+#EXTINF:0,Rtv Herceg Bosne BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/684734
+#EXTINF:0,Podrinje HD BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/684733
+#EXTINF:0,B1 Gradacac FHD BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/684735
+#EXTINF:0,NTV IC Kakanj BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/685962
+#EXTINF:0,------- Sportski -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683510
+#EXTINF:0,Arena Sport HD BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/675211
+#EXTINF:0,City TV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13317
+#EXTINF:0,------- Filmovi & Serije -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683511
+#EXTINF:0,Kanal 6 HD BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/12537
+#EXTINF:0,------- Dobra TV mrehttp://mytv.fun:8080/MoGhost/tw5yrlc48h/683512
+#EXTINF:0,Dobra Balkanska HD BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/654827
+#EXTINF:0,Dobra Islamska BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/682876
+#EXTINF:0,Dobra Bosnjacka BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/654826
+#EXTINF:0,Dobra Cinema HD BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/654825
+#EXTINF:0,Dobra Exclusive HD BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/654821
+#EXTINF:0,Dobra Muzicka BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/654819
+#EXTINF:0,Dobra Nasheed HD BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/654817
+#EXTINF:0,Dobra S-Makedonija HD BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/654815
+#EXTINF:0,Dobra Sportska HD BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/654814
+#EXTINF:0,Dobra Srpska HD BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/654813
+#EXTINF:0,Dobra World Music HD BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/654812
+#EXTINF:0,Dobra Sevdah BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/663521
+#EXTINF:0,Dobra Svadba BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/663522
+#EXTINF:0,Dobra Travel BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/663523
+#EXTINF:0,------- Religiozni -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683513
+#EXTINF:0,BIR TV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/638022
+#EXTINF:0,MTV Igman HD BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5038
+#EXTINF:0,Televizija 5 BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9395
+#EXTINF:0,Mekka TV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9361
+#EXTINF:0,------- Decji -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683515
+#EXTINF:0,Hayatovci BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9400
+#EXTINF:0,------- Muzicki -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683516
+#EXTINF:0,BP TV HD BiH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/657469
+#EXTINF:0,BN Music BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9394
+#EXTINF:0,Hayat Folk BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5042
+#EXTINF:0,Hayat Music BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9401
+#EXTINF:0,Posavina TV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4992
+#EXTINF:0,Sevdah TV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9399
+#EXTINF:0,TV Sehara HD BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9398
+#EXTINF:0,Glas Drine TV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/12394
+#EXTINF:0,OTV Valentino BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5023
+#EXTINF:0,Izvorna TV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9376
+#EXTINF:0,Planeta TV BIH
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/635094
+#EXTINF:0,------- Crna Gora -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683510
+#EXTINF:0,RTCG 1 MNE
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13346
+#EXTINF:0,RTCG 2 FHD MNE
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11039
+#EXTINF:0,RTCG Sat MNE
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9387
+#EXTINF:0,TV Vijesti MNE
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/12385
+#EXTINF:0,Prva TV CG MNE
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/16424
+#EXTINF:0,Nova M MNE
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5005
+#EXTINF:0,Pink M MNE
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/638021
+#EXTINF:0,------- Nacionalni & lokalni -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683197
+#EXTINF:0,RTS 1 FHD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4979
+#EXTINF:0,RTS 1 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/670712
+#EXTINF:0,RTS 2 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4978
+#EXTINF:0,RTS 2 [B] RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/10408
+#EXTINF:0,RTS 3 FHD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4977
+#EXTINF:0,RTS 3 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/10407
+#EXTINF:0,RTS Svet RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11046
+#EXTINF:0,N1 TV HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9392
+#EXTINF:0,N1 TV [B] RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9393
+#EXTINF:0,Nova S FHD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5026
+#EXTINF:0,Prva HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4991
+#EXTINF:0,Happy TV RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5044
+#EXTINF:0,Happy TV [B] RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11041
+#EXTINF:0, B92 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5072
+#EXTINF:0,B92 HD [B] RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9389
+#EXTINF:0,Studio B FHD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4973
+#EXTINF:0,KCN 1 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9365
+#EXTINF:0,RTV Vojvodina 1 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4976
+#EXTINF:0,RTV Vojvodina 2 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4975
+#EXTINF:0,RTV Novi Pazar RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9385
+#EXTINF:0,Belle Amie RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/629074
+#EXTINF:0,Sandzak TV RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9386
+#EXTINF:0,Jefimija TV RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/18919
+#EXTINF:0,Mlava TV RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/7888
+#EXTINF:0,RTK 2 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/680235
+#EXTINF:0,BK TV HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/674091
+#EXTINF:0,RTV Bor RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/674050
+#EXTINF:0,Palma Plus HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5022
+#EXTINF:0,Leskovac TV RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/7889
+#EXTINF:0,TV Istok RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/12386
+#EXTINF:0,------- Sportski -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683198
+#EXTINF:0,Arena Sport 1 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5465
+#EXTINF:0,Arena Sport 2 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5463
+#EXTINF:0,Arena Sport 3 FHD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5461
+#EXTINF:0,Arena Sport 4 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5459
+#EXTINF:0,Arena Sport 5 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5456
+#EXTINF:0,Sport Klub 1 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/625234
+#EXTINF:0,Sport Klub 2 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9407
+#EXTINF:0,Sport Klub 3 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9406
+#EXTINF:0,Sport Klub 4 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9405
+#EXTINF:0,Sport Klub 5 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9404
+#EXTINF:0,Sport Klub 6 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9403
+#EXTINF:0,Sport Klub Golf FHD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/685941
+#EXTINF:0,Nova Sport HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/674094
+#EXTINF:0,Eurosport 1 HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5056
+#EXTINF:0,Eurosport 2 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5055
+#EXTINF:0,Crvena Zvezda TV RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/674090
+#EXTINF:0,Partizan TV HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13221
+#EXTINF:0,SOS RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13222
+#EXTINF:0,------- Pink kanali -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683199
+#EXTINF:0,Pink HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5021
+#EXTINF:0,Pink 2 [Red TV] HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5020
+#EXTINF:0,Pink 3 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5019
+#EXTINF:0,Pink Action RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5018
+#EXTINF:0,Pink Bravo RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13348
+#EXTINF:0,Pink Classic RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9357
+#EXTINF:0,Pink Comedy RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5016
+#EXTINF:0,Pink Crime & Mystery RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5015
+#EXTINF:0,Pink Extra RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5014
+#EXTINF:0,Pink Family RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13351
+#EXTINF:0,Pink Fashion RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13350
+#EXTINF:0,Pink Film RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5011
+#EXTINF:0,Pink Folk 1 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5013
+#EXTINF:0,Pink Folk 2 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5012
+#EXTINF:0,Pink HaHa RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5010
+#EXTINF:0,Pink Hits RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5009
+#EXTINF:0,Pink Hits 2 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11027
+#EXTINF:0,Pink Horror RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5008
+#EXTINF:0,Pink Kids RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9353
+#EXTINF:0,Pink Koncert RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9350
+#EXTINF:0,Pink Kuvar RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5007
+#EXTINF:0,Pink LOL RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5006
+#EXTINF:0,Pink Movies RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9356
+#EXTINF:0,Pink Music RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9351
+#EXTINF:0,Pink Music 2 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13349
+#EXTINF:0,Pink & Roll RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9349
+#EXTINF:0,Pink Pedia RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5004
+#EXTINF:0,Pink Plus RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5003
+#EXTINF:0,Pink Premium RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5002
+#EXTINF:0,Pink Reality RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5001
+#EXTINF:0,Pink Romance RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5000
+#EXTINF:0,Pink SciFi Fantasy RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4997
+#EXTINF:0,Pink Serije RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4999
+#EXTINF:0,Pink Show RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4998
+#EXTINF:0,Pink Soap RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4996
+#EXTINF:0,Pink Style RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/16427
+#EXTINF:0,Pink Super Kids RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9352
+#EXTINF:0,Pink Thriller RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4995
+#EXTINF:0,Pink Western RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4994
+#EXTINF:0,Pink World Cinema RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9355
+#EXTINF:0,Pink World RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9354
+#EXTINF:0,Pink Zabava RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4993
+#EXTINF:0,------- Filmovi & Serije -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683200
+#EXTINF:0,RTS Drama RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/627838
+#EXTINF:0,Prva Max RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4989
+#EXTINF:0,Prva Plus RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4990
+#EXTINF:0,Prva Kick RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/23187
+#EXTINF:0,Prva World HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/4988
+#EXTINF:0,Filmbox Extra FHD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5052
+#EXTINF:0,Film Klub RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/12395
+#EXTINF:0,Epic Drama HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13321
+#EXTINF:0,Kino TV HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/12396
+#EXTINF:0,Cinemania FHD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13354
+#EXTINF:0,Star TV FHD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683216
+#EXTINF:0,Superstar TV RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/657463
+#EXTINF:0,------- Obrazovni/Dokumentarni -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683202
+#EXTINF:0,RTS Trezor RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/627836
+#EXTINF:0,RTS Zivot RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/627835
+#EXTINF:0,Lov i Ribolov RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/686002
+#EXTINF:0,Da Vinci Learning RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/657456
+#EXTINF:0,Discovery Channel RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/657455
+#EXTINF:0,Discovery ID RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/686000
+#EXTINF:0,Discovery Science HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/686001
+#EXTINF:0,E! FHD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/686003
+#EXTINF:0,TV Hram RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11029
+#EXTINF:0,------- Rijaliti -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683203
+#EXTINF:0,Zadruga 1 Live RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/23183
+#EXTINF:0,Zadruga 2 Live RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/663534
+#EXTINF:0,Zadruga 3 Live RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/663535
+#EXTINF:0,Zadruga 4 Live RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/663536
+#EXTINF:0,Parovi Live 24/7 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/685975
+#EXTINF:0,------- Decji -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683204
+#EXTINF:0,Pikaboo RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/23180
+#EXTINF:0,RTS Poletarac RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/13328
+#EXTINF:0,Minimax RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9370
+#EXTINF:0,------- Muzicki -------
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683205
+#EXTINF:0,RTS Muzika RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/627837
+#EXTINF:0,RTS Kolo RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/657464
+#EXTINF:0,IDJ TV FHD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11035
+#EXTINF:0,KCN 3 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9363
+#EXTINF:0,KCN 2 RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9364
+#EXTINF:0,DM Sat RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9367
+#EXTINF:0,Grand TV RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/5045
+#EXTINF:0,Grand 2 TV HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/9390
+#EXTINF:0,TOP TV HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/11028
+#EXTINF:0,Yu Planet TV RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/639818
+#EXTINF:0,Duga + RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/657460
+#EXTINF:0,Kafanska TV HD RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/674093
+#EXTINF:0,CityPLAY RS
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/674095
+#EXTINF:0,
+http://mytv.fun:8080/MoGhost/tw5yrlc48h/683299
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: BNT 1" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 1
+http://admin-mainpanel.club:8080/dok/dok/3284
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: BNT 2" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 2
+http://admin-mainpanel.club:8080/dok/dok/3263
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: BNT 3" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 3
+http://admin-mainpanel.club:8080/dok/dok/3283
+#EXTINF:-1 tvg-ID="" tvg-name="BG: BNT 4" tvg-logo="" group-title="Live: Bulgaria",BG: BNT 4
+http://admin-mainpanel.club:8080/dok/dok/19595
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: bTV HD" tvg-logo="" group-title="Live: Bulgaria",BG: bTV HD
+http://admin-mainpanel.club:8080/dok/dok/3282
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: bTV Comedy" tvg-logo="" group-title="Live: Bulgaria",BG: bTV Comedy
+http://admin-mainpanel.club:8080/dok/dok/3256
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: bTV Cinema" tvg-logo="" group-title="Live: Bulgaria",BG: bTV Cinema
+http://admin-mainpanel.club:8080/dok/dok/3268
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: bTV Action HD" tvg-logo="" group-title="Live: Bulgaria",BG: bTV Action HD
+http://admin-mainpanel.club:8080/dok/dok/3269
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: bTV Lady" tvg-logo="" group-title="Live: Bulgaria",BG: bTV Lady
+http://admin-mainpanel.club:8080/dok/dok/3255
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Max Sport 1 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Max Sport 1 HD
+http://admin-mainpanel.club:8080/dok/dok/14936
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Max Sport 2 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Max Sport 2 HD
+http://admin-mainpanel.club:8080/dok/dok/14937
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Max Sport 3 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Max Sport 3 HD
+http://admin-mainpanel.club:8080/dok/dok/20341
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Max Sport 4 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Max Sport 4 HD
+http://admin-mainpanel.club:8080/dok/dok/26353
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Diema TV" tvg-logo="" group-title="Live: Bulgaria",BG: Diema TV
+http://admin-mainpanel.club:8080/dok/dok/3279
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Diema Sport FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Sport FHD
+http://admin-mainpanel.club:8080/dok/dok/40770
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Diema Sport HD" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Sport HD
+http://admin-mainpanel.club:8080/dok/dok/3281
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Diema Sport 2 FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Sport 2 FHD
+http://admin-mainpanel.club:8080/dok/dok/40769
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Diema Sport 2 HD" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Sport 2 HD
+http://admin-mainpanel.club:8080/dok/dok/3280
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Diema Family" tvg-logo="" group-title="Live: Bulgaria",BG: Diema Family
+http://admin-mainpanel.club:8080/dok/dok/3254
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: 100 Automoto TV" tvg-logo="" group-title="Live: Bulgaria",BG: 100 Automoto TV
+http://admin-mainpanel.club:8080/dok/dok/26502
+#EXTINF:-1 tvg-ID="" tvg-name="BG: 24 Kitchen FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: 24 Kitchen FHD
+http://admin-mainpanel.club:8080/dok/dok/26533
+#EXTINF:-1 tvg-ID="" tvg-name="BG: 24 Kitchen HD" tvg-logo="" group-title="Live: Bulgaria",BG: 24 Kitchen HD
+http://admin-mainpanel.club:8080/dok/dok/26546
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: 78 TV" tvg-logo="" group-title="Live: Bulgaria",BG: 78 TV
+http://admin-mainpanel.club:8080/dok/dok/3261
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Action Plus HD" tvg-logo="" group-title="Live: Bulgaria",BG: Action Plus HD
+http://admin-mainpanel.club:8080/dok/dok/3285
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Agro TV" tvg-logo="" group-title="Live: Bulgaria",BG: Agro TV
+http://admin-mainpanel.club:8080/dok/dok/51838
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Alfa TV" tvg-logo="" group-title="Live: Bulgaria",BG: Alfa TV
+http://admin-mainpanel.club:8080/dok/dok/3260
+#EXTINF:-1 tvg-ID="" tvg-name="BG: AMC" tvg-logo="" group-title="Live: Bulgaria",BG: AMC
+http://admin-mainpanel.club:8080/dok/dok/26501
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Animal Planet FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Animal Planet FHD
+http://admin-mainpanel.club:8080/dok/dok/26532
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Auto Motor Sport HD" tvg-logo="" group-title="Live: Bulgaria",BG: Auto Motor Sport HD
+http://admin-mainpanel.club:8080/dok/dok/41914
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: AXN HD" tvg-logo="" group-title="Live: Bulgaria",BG: AXN HD
+http://admin-mainpanel.club:8080/dok/dok/26535
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Baby TV" tvg-logo="" group-title="Live: Bulgaria",BG: Baby TV
+http://admin-mainpanel.club:8080/dok/dok/26545
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Balkanika Music TV HD" tvg-logo="" group-title="Live: Bulgaria",BG: Balkanika Music TV HD
+http://admin-mainpanel.club:8080/dok/dok/3259
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: BG Music HD" tvg-logo="" group-title="Live: Bulgaria",BG: BG Music HD
+http://admin-mainpanel.club:8080/dok/dok/3258
+#EXTINF:-1 tvg-ID="" tvg-name="BG: BG-DNES FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: BG-DNES FHD
+http://admin-mainpanel.club:8080/dok/dok/26531
+#EXTINF:-1 tvg-ID="" tvg-name="BG: BH TV" tvg-logo="" group-title="Live: Bulgaria",BG: BH TV
+http://admin-mainpanel.club:8080/dok/dok/51839
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Bloomberg" tvg-logo="" group-title="Live: Bulgaria",BG: Bloomberg
+http://admin-mainpanel.club:8080/dok/dok/27879
+#EXTINF:-1 tvg-ID="" tvg-name="BG: BNP TV" tvg-logo="" group-title="Live: Bulgaria",BG: BNP TV
+http://admin-mainpanel.club:8080/dok/dok/51840
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Box TV" tvg-logo="" group-title="Live: Bulgaria",BG: Box TV
+http://admin-mainpanel.club:8080/dok/dok/3257
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: BSTV" tvg-logo="" group-title="Live: Bulgaria",BG: BSTV
+http://admin-mainpanel.club:8080/dok/dok/31269
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Bulgaria 24" tvg-logo="" group-title="Live: Bulgaria",BG: Bulgaria 24
+http://admin-mainpanel.club:8080/dok/dok/26544
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Bulgaria On Air" tvg-logo="" group-title="Live: Bulgaria",BG: Bulgaria On Air
+http://admin-mainpanel.club:8080/dok/dok/3265
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Cartoon Network" tvg-logo="" group-title="Live: Bulgaria",BG: Cartoon Network
+http://admin-mainpanel.club:8080/dok/dok/26543
+#EXTINF:-1 tvg-ID="" tvg-name="BG: CBS Reality" tvg-logo="" group-title="Live: Bulgaria",BG: CBS Reality
+http://admin-mainpanel.club:8080/dok/dok/51842
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Sportal.bg" tvg-logo="" group-title="Live: Bulgaria",BG: Sportal.bg
+http://admin-mainpanel.club:8080/dok/dok/26498
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Cherno More" tvg-logo="" group-title="Live: Bulgaria",BG: Cherno More
+http://admin-mainpanel.club:8080/dok/dok/26529
+#EXTINF:-1 tvg-ID="" tvg-name="BG: CI" tvg-logo="" group-title="Live: Bulgaria",BG: CI
+http://admin-mainpanel.club:8080/dok/dok/51841
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Cinema Plus" tvg-logo="" group-title="Live: Bulgaria",BG: Cinema Plus
+http://admin-mainpanel.club:8080/dok/dok/3267
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: CineMax 1 FHD" tvg-logo="" group-title="Live: Bulgaria",BG: CineMax 1 FHD
+http://admin-mainpanel.club:8080/dok/dok/17948
+#EXTINF:-1 tvg-ID="" tvg-name="BG: CineMax 2 FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: CineMax 2 FHD
+http://admin-mainpanel.club:8080/dok/dok/17949
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: City TV" tvg-logo="" group-title="Live: Bulgaria",BG: City TV
+http://admin-mainpanel.club:8080/dok/dok/19596
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Comedy Plus" tvg-logo="" group-title="Live: Bulgaria",BG: Comedy Plus
+http://admin-mainpanel.club:8080/dok/dok/3266
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Da Vinci Learning" tvg-logo="" group-title="Live: Bulgaria",BG: Da Vinci Learning
+http://admin-mainpanel.club:8080/dok/dok/51843
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: DESTINATIONS" tvg-logo="" group-title="Live: Bulgaria",BG: DESTINATIONS
+http://admin-mainpanel.club:8080/dok/dok/26500
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Discovery Channel FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Discovery Channel FHD
+http://admin-mainpanel.club:8080/dok/dok/26528
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Discovery Science FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Discovery Science FHD
+http://admin-mainpanel.club:8080/dok/dok/26527
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Disney HD" tvg-logo="" group-title="Live: Bulgaria",BG: Disney HD
+http://admin-mainpanel.club:8080/dok/dok/26534
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Vivacom Arena FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Vivacom Arena FHD
+http://admin-mainpanel.club:8080/dok/dok/51844
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Djazz HD" tvg-logo="" group-title="Live: Bulgaria",BG: Djazz HD
+http://admin-mainpanel.club:8080/dok/dok/3252
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: DSTV" tvg-logo="" group-title="Live: Bulgaria",BG: DSTV
+http://admin-mainpanel.club:8080/dok/dok/26542
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Duck TV" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Duck TV
+http://admin-mainpanel.club:8080/dok/dok/26541
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Ekids" tvg-logo="" group-title="Live: Bulgaria",BG: Ekids
+http://admin-mainpanel.club:8080/dok/dok/19597
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Eurosport 1 FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Eurosport 1 FHD
+http://admin-mainpanel.club:8080/dok/dok/26526
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Eurosport 2 FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Eurosport 2 FHD
+http://admin-mainpanel.club:8080/dok/dok/26525
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Evrokom" tvg-logo="" group-title="Live: Bulgaria",BG: Evrokom
+http://admin-mainpanel.club:8080/dok/dok/19598
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: F Plus" tvg-logo="" group-title="Live: Bulgaria",BG: F Plus
+http://admin-mainpanel.club:8080/dok/dok/3278
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Fen TV HD" tvg-logo="" group-title="Live: Bulgaria",BG: Fen TV HD
+http://admin-mainpanel.club:8080/dok/dok/3253
+#EXTINF:-1 tvg-ID="" tvg-name="BG: FightBox FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: FightBox FHD
+http://admin-mainpanel.club:8080/dok/dok/26524
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: FilmBox Extra HD" tvg-logo="" group-title="Live: Bulgaria",BG: FilmBox Extra HD
+http://admin-mainpanel.club:8080/dok/dok/3251
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Fine Living" tvg-logo="" group-title="Live: Bulgaria",BG: Fine Living
+http://admin-mainpanel.club:8080/dok/dok/51845
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Folklor TV" tvg-logo="" group-title="Live: Bulgaria",BG: Folklor TV
+http://admin-mainpanel.club:8080/dok/dok/26549
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Food Network FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Food Network FHD
+http://admin-mainpanel.club:8080/dok/dok/26523
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Fox Crime FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Fox Crime FHD
+http://admin-mainpanel.club:8080/dok/dok/26522
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: FOX FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: FOX FHD
+http://admin-mainpanel.club:8080/dok/dok/26521
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Fox Life FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Fox Life FHD
+http://admin-mainpanel.club:8080/dok/dok/26520
+#EXTINF:-1 tvg-ID="" tvg-name="BG: HBO 2 HD" tvg-logo="" group-title="Live: Bulgaria",BG: HBO 2 HD
+http://admin-mainpanel.club:8080/dok/dok/17399
+#EXTINF:-1 tvg-ID="" tvg-name="BG: HBO 3 HD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: HBO 3 HD
+http://admin-mainpanel.club:8080/dok/dok/17400
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: HBO HD" tvg-logo="" group-title="Live: Bulgaria",BG: HBO HD
+http://admin-mainpanel.club:8080/dok/dok/17401
+#EXTINF:-1 tvg-ID="" tvg-name="BG: History Channel FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: History Channel FHD
+http://admin-mainpanel.club:8080/dok/dok/26519
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Hit Mix Channel" tvg-logo="" group-title="Live: Bulgaria",BG: Hit Mix Channel
+http://admin-mainpanel.club:8080/dok/dok/26540
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Hobby Lov" tvg-logo="" group-title="Live: Bulgaria",BG: Hobby Lov
+http://admin-mainpanel.club:8080/dok/dok/3264
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Hobby TV HD" tvg-logo="" group-title="Live: Bulgaria",BG: Hobby TV HD
+http://admin-mainpanel.club:8080/dok/dok/3277
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: iConcerts HD" tvg-logo="" group-title="Live: Bulgaria",BG: iConcerts HD
+http://admin-mainpanel.club:8080/dok/dok/26497
+#EXTINF:-1 tvg-ID="" tvg-name="BG: ID Xtra FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: ID Xtra FHD
+http://admin-mainpanel.club:8080/dok/dok/26518
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Jim Jam" tvg-logo="" group-title="Live: Bulgaria",BG: Jim Jam
+http://admin-mainpanel.club:8080/dok/dok/26504
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Kanal 3" tvg-logo="" group-title="Live: Bulgaria",BG: Kanal 3
+http://admin-mainpanel.club:8080/dok/dok/3250
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: KHL FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: KHL FHD
+http://admin-mainpanel.club:8080/dok/dok/26536
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: KinoNova" tvg-logo="" group-title="Live: Bulgaria",BG: KinoNova
+http://admin-mainpanel.club:8080/dok/dok/3276
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Light Channel" tvg-logo="" group-title="Live: Bulgaria",BG: Light Channel
+http://admin-mainpanel.club:8080/dok/dok/51837
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Light FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Light FHD
+http://admin-mainpanel.club:8080/dok/dok/26517
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: MagicTV" tvg-logo="" group-title="Live: Bulgaria",BG: MagicTV
+http://admin-mainpanel.club:8080/dok/dok/3262
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Moviestar" tvg-logo="" group-title="Live: Bulgaria",BG: Moviestar
+http://admin-mainpanel.club:8080/dok/dok/51846
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: MTV" tvg-logo="" group-title="Live: Bulgaria",BG: MTV
+http://admin-mainpanel.club:8080/dok/dok/26496
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Nat Geo FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Nat Geo FHD
+http://admin-mainpanel.club:8080/dok/dok/26516
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Nat Geo Wild FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Nat Geo Wild FHD
+http://admin-mainpanel.club:8080/dok/dok/26515
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Nick JR" tvg-logo="" group-title="Live: Bulgaria",BG: Nick JR
+http://admin-mainpanel.club:8080/dok/dok/51828
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Nickelodeon" tvg-logo="" group-title="Live: Bulgaria",BG: Nickelodeon
+http://admin-mainpanel.club:8080/dok/dok/26539
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Nova Sport FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Nova Sport FHD
+http://admin-mainpanel.club:8080/dok/dok/26514
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Nova Sport HD" tvg-logo="" group-title="Live: Bulgaria",BG: Nova Sport HD
+http://admin-mainpanel.club:8080/dok/dok/3247
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: NOVA TV" tvg-logo="" group-title="Live: Bulgaria",BG: NOVA TV
+http://admin-mainpanel.club:8080/dok/dok/3275
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Planeta Folk TV" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Planeta Folk TV
+http://admin-mainpanel.club:8080/dok/dok/26538
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Planeta HD" tvg-logo="" group-title="Live: Bulgaria",BG: Planeta HD
+http://admin-mainpanel.club:8080/dok/dok/3274
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Retro Music TV" tvg-logo="" group-title="Live: Bulgaria",BG: Retro Music TV
+http://admin-mainpanel.club:8080/dok/dok/13842
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: RING BG HD" tvg-logo="" group-title="Live: Bulgaria",BG: RING BG HD
+http://admin-mainpanel.club:8080/dok/dok/3246
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: RING.BG FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: RING.BG FHD
+http://admin-mainpanel.club:8080/dok/dok/26513
+#EXTINF:-1 tvg-ID="" tvg-name="BG: RodinaTV" tvg-logo="" group-title="Live: Bulgaria",BG: RodinaTV
+http://admin-mainpanel.club:8080/dok/dok/51847
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Skat" tvg-logo="" group-title="Live: Bulgaria",BG: Skat
+http://admin-mainpanel.club:8080/dok/dok/3270
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: SPORT Plus HD" tvg-logo="" group-title="Live: Bulgaria",BG: SPORT Plus HD
+http://admin-mainpanel.club:8080/dok/dok/3273
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Sport+ FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Sport+ FHD
+http://admin-mainpanel.club:8080/dok/dok/26512
+#EXTINF:-1 tvg-ID="" tvg-name="BG: SPORTAL.BG HD" tvg-logo="" group-title="Live: Bulgaria",BG: SPORTAL.BG HD
+http://admin-mainpanel.club:8080/dok/dok/26503
+#EXTINF:-1 tvg-ID="" tvg-name="BG: SunriseMusic" tvg-logo="" group-title="Live: Bulgaria",BG: SunriseMusic
+http://admin-mainpanel.club:8080/dok/dok/51848
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: The Voice" tvg-logo="" group-title="Live: Bulgaria",BG: The Voice
+http://admin-mainpanel.club:8080/dok/dok/3272
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Tiankov Folk" tvg-logo="" group-title="Live: Bulgaria",BG: Tiankov Folk
+http://admin-mainpanel.club:8080/dok/dok/26548
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Tiankov Orient Folk" tvg-logo="" group-title="Live: Bulgaria",BG: Tiankov Orient Folk
+http://admin-mainpanel.club:8080/dok/dok/51849
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: TLC" tvg-logo="" group-title="Live: Bulgaria",BG: TLC
+http://admin-mainpanel.club:8080/dok/dok/17946
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Trace Sport Stars HD" tvg-logo="" group-title="Live: Bulgaria",BG: Trace Sport Stars HD
+http://admin-mainpanel.club:8080/dok/dok/26547
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Travel Channel FHD" tvg-logo="[" group-title="Live: Bulgaria",BG: Travel Channel FHD
+http://admin-mainpanel.club:8080/dok/dok/26511
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Travel HD" tvg-logo="" group-title="Live: Bulgaria",BG: Travel HD
+http://admin-mainpanel.club:8080/dok/dok/3248
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Travel TV FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Travel TV FHD
+http://admin-mainpanel.club:8080/dok/dok/26510
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: TV 1000" tvg-logo="" group-title="Live: Bulgaria",BG: TV 1000
+http://admin-mainpanel.club:8080/dok/dok/17947
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: TV EUROPE" tvg-logo="" group-title="Live: Bulgaria",BG: TV EUROPE
+http://admin-mainpanel.club:8080/dok/dok/26499
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: TV Plus" tvg-logo="" group-title="Live: Bulgaria",BG: TV Plus
+http://admin-mainpanel.club:8080/dok/dok/3271
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: TV1 FHD" tvg-logo="" group-title="Live: Bulgaria",BG: TV1 FHD
+http://admin-mainpanel.club:8080/dok/dok/26509
+#EXTINF:-1 tvg-ID="" tvg-name="BG: TVT" tvg-logo="" group-title="Live: Bulgaria",BG: TVT
+http://admin-mainpanel.club:8080/dok/dok/51850
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Viasat History FHD" tvg-logo="[""]" group-title="Live: Bulgaria",BG: Viasat History FHD
+http://admin-mainpanel.club:8080/dok/dok/26508
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: Viasat Nature & History HD" tvg-logo="[" group-title="Live: Bulgaria",BG: Viasat Nature & History HD
+http://admin-mainpanel.club:8080/dok/dok/3249
+#EXTINF:-1 tvg-ID="" tvg-name="BG: VTK" tvg-logo="" group-title="Live: Bulgaria",BG: VTK
+http://admin-mainpanel.club:8080/dok/dok/26537
+#EXTINF:-1 tvg-ID="" tvg-name="BG: Wild TV FHD" tvg-logo="" group-title="Live: Bulgaria",BG: Wild TV FHD
+http://admin-mainpanel.club:8080/dok/dok/26507
+#EXTINF:-1 tvg-ID="NULL" tvg-name="BG: WnessTV FHD" tvg-logo="" group-title="Live: Bulgaria",BG: WnessTV FHD
+http://admin-mainpanel.club:8080/dok/dok/26506
+#EXTINF:-1 tvg-ID="" tvg-name="BG: World Fight Channel FHD" tvg-logo="" group-title="Live: Bulgaria",BG: World Fight Channel FHD
+http://admin-mainpanel.club:8080/dok/dok/26505
